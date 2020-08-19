@@ -32,14 +32,14 @@
 
 ### Contributions
 <a href="https://github.com/ddugovic/Stockfish">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=prussian" />
 </a>
 <a href="https://github.com/gbtami/pychess-variants">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=prussian" />
 </a>
 <a href="https://github.com/official-stockfish/Stockfish">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=official-stockfish&repo=Stockfish&show_owner=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=official-stockfish&repo=Stockfish&show_owner=true&theme=prussian" />
 </a>
 <a href="https://github.com/glinscott/fishtest">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=glinscott&repo=fishtest&show_owner=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glinscott&repo=fishtest&show_owner=true&theme=prussian" />
 </a>
