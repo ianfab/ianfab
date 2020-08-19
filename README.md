@@ -1,6 +1,6 @@
 ### Stats
 
-<a href="https://github.com/ianfab/ianfab">
+<a href="https://coderstats.net/github/#ianfab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfab&hide=ruby&theme=default" />
 </a>
 <a href="https://github.com/ianfab/ianfab">
