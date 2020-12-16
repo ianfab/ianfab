@@ -1,15 +1,6 @@
 ## Introduction
 Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy abstract strategy board games, especially chess and related games, and developing open source software for them, see below.
 
-## Stats
-
-<a href="https://github.com/ianfab/ianfab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfab&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
-</a>
-<a href="https://coderstats.net/github/#ianfab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfab&hide=ruby&theme=algolia" />
-</a>
-
 ## Projects
 <a href="https://github.com/ianfab/Fairy-Stockfish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&theme=algolia" />
@@ -49,6 +40,15 @@ Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienc
 </a>
 <a href="https://github.com/glinscott/fishtest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glinscott&repo=fishtest&show_owner=true&theme=algolia" />
+</a>
+
+## Stats
+
+<a href="https://github.com/ianfab/ianfab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfab&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
+</a>
+<a href="https://coderstats.net/github/#ianfab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfab&hide=ruby&theme=algolia" />
 </a>
 
 ## Technologies
