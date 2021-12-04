@@ -23,8 +23,8 @@ Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienc
 <a href="https://github.com/ianfab/fairyfishtest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairyfishtest&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/fishutils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fishutils&theme=algolia" />
+<a href="https://github.com/ianfab/FairyFishGUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=FairyFishGUI&theme=algolia" />
 </a>
 
 
