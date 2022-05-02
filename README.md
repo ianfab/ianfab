@@ -29,8 +29,8 @@ Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienc
 <a href="https://github.com/ianfab/variantfishtest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variantfishtest&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/fairyfishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairyfishtest&theme=algolia" />
+<a href="https://github.com/ianfab/chess-variant-puzzler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=chess-variant-puzzler&theme=algolia" />
 </a>
 
 
