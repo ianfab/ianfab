@@ -1,5 +1,5 @@
 ## Introduction
-Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy abstract strategy board games, especially chess and related games, and developing open source software for them, see below.
+I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy playing abstract strategy board games, especially chess and related games, and developing open source software for them. My current main open source project is [Fairy-Stockfish](https://github.com/ianfab/Fairy-Stockfish), a [chess variant](https://en.wikipedia.org/wiki/Chess_variant) engine playing on top level at a large variety of chess-like games and being used on several chess and chess variant websites, such as [lichess.org](https://en.wikipedia.org/wiki/Lichess) and [pychess.org](https://github.com/gbtami/pychess-variants).
 
 ## Projects
 <a href="https://github.com/ianfab/Fairy-Stockfish">
@@ -14,23 +14,23 @@ Hi, I am Fabian Fichter, a backend developer in bioinformatics, mainly experienc
 <a href="https://github.com/ianfab/variant-nnue-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variant-nnue-pytorch&theme=algolia" />
 </a>
+<a href="https://github.com/ianfab/fairy-stockfish.wasm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
+</a>
+<a href="https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish-nnue-wasm-demo&theme=algolia" />
+</a>
 <a href="https://github.com/ianfab/bookgen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/fairy-stockfish.wasm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
+<a href="https://github.com/ianfab/chess-variant-puzzler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=chess-variant-puzzler&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fishtest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/spsa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=spsa&theme=algolia" />
-</a>
 <a href="https://github.com/ianfab/variantfishtest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variantfishtest&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/chess-variant-puzzler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=chess-variant-puzzler&theme=algolia" />
 </a>
 
 
