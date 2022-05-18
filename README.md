@@ -3,58 +3,58 @@ I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced w
 
 ## Projects
 <a href="https://github.com/ianfab/Fairy-Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/FairyFishGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=FairyFishGUI&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=FairyFishGUI&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/Fairy-Stockfish-NNUE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish-NNUE&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish-NNUE&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/variant-nnue-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variant-nnue-pytorch&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=variant-nnue-pytorch&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fairy-stockfish.wasm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish-nnue-wasm-demo&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish-nnue-wasm-demo&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/bookgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/chess-variant-puzzler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=chess-variant-puzzler&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=chess-variant-puzzler&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/variantfishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianfab&repo=variantfishtest&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=variantfishtest&theme=algolia" />
 </a>
 
 
 ## Contributions
 <a href="https://github.com/ddugovic/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ddugovic&repo=Stockfish&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/gbtami/pychess-variants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/official-stockfish/Stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=official-stockfish&repo=Stockfish&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=official-stockfish&repo=Stockfish&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/glinscott/fishtest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glinscott&repo=fishtest&show_owner=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=glinscott&repo=fishtest&show_owner=true&theme=algolia" />
 </a>
 
 ## Stats
 
 <a href="https://github.com/ianfab/ianfab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfab&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api?username=ianfab&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
 </a>
 <a href="https://coderstats.net/github/#ianfab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfab&hide=ruby&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/top-langs/?username=ianfab&hide=ruby&theme=algolia" />
 </a>
 
 ## Technologies
