@@ -17,8 +17,8 @@ I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced w
 <a href="https://github.com/ianfab/fairy-stockfish.wasm">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/fairy-stockfish-nnue-wasm-demo">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish-nnue-wasm-demo&theme=algolia" />
+<a href="https://github.com/ianfab/fairyground">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairyground&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/bookgen">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
