@@ -1,5 +1,7 @@
 ## Introduction
-I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced with Python and C++. I very much enjoy playing abstract strategy board games, especially chess and related games, and developing open source software for them. My current main open source project is [Fairy-Stockfish](https://fairy-stockfish.github.io/), a [chess variant](https://en.wikipedia.org/wiki/Chess_variant) engine playing on top level at a large variety of chess-like games and being used on several chess and chess variant websites, such as [lichess.org](https://en.wikipedia.org/wiki/Lichess) and [pychess.org](https://github.com/gbtami/pychess-variants). Some of my repositories are in the [Fairy-Stockfish github organization](https://github.com/fairy-stockfish).
+I am Fabian Fichter, a backend developer in bioinformatics, mainly experienced with Python and C++, with focus on algorithms, data analysis, and automation. I very much enjoy playing abstract strategy board games, especially chess and related games, and developing open source software for them.
+
+My current main open source project is [Fairy-Stockfish](https://fairy-stockfish.github.io/), a [chess variant](https://en.wikipedia.org/wiki/Chess_variant) engine playing on top level at a large variety of chess-like games and being used on several chess and chess variant websites, such as [lichess.org](https://github.com/lichess-org/lila) and [pychess.org](https://github.com/gbtami/pychess-variants). Also see the [Fairy-Stockfish github organization](https://github.com/fairy-stockfish).
 
 ## Projects
 ### Fairy-Stockfish
