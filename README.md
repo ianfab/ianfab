@@ -5,26 +5,26 @@ My current main open source project is [Fairy-Stockfish](https://fairy-stockfish
 
 ## Projects
 ### Fairy-Stockfish
-<a href="https://github.com/ianfab/Fairy-Stockfish">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/Fairy-Stockfish">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=Fairy-Stockfish&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fairyground">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairyground&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/Fairy-Stockfish-NNUE">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=Fairy-Stockfish-NNUE&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=Fairy-Stockfish-NNUE&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/fairy-stockfish.wasm">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairy-stockfish.wasm&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/fairy-stockfish.wasm">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=fairy-stockfish.wasm&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/variant-nnue-pytorch">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=variant-nnue-pytorch&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/variant-nnue-pytorch">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=variant-nnue-pytorch&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/variant-nnue-tools">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=variant-nnue-tools&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/variant-nnue-tools">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=variant-nnue-tools&theme=algolia" />
 </a>
-<a href="https://github.com/ianfab/bookgen">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=bookgen&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/bookgen">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=bookgen&theme=algolia" />
 </a>
 <a href="https://github.com/ianfab/fishtest">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
