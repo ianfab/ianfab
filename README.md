@@ -11,23 +11,11 @@ My current main open source project is [Fairy-Stockfish](https://fairy-stockfish
 <a href="https://github.com/ianfab/fairyground">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fairyground&theme=algolia" />
 </a>
-<a href="https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=Fairy-Stockfish-NNUE&theme=algolia" />
-</a>
-<a href="https://github.com/fairy-stockfish/fairy-stockfish.wasm">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=fairy-stockfish.wasm&theme=algolia" />
-</a>
 <a href="https://github.com/fairy-stockfish/variant-nnue-pytorch">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=variant-nnue-pytorch&theme=algolia" />
 </a>
-<a href="https://github.com/fairy-stockfish/variant-nnue-tools">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=variant-nnue-tools&theme=algolia" />
-</a>
-<a href="https://github.com/fairy-stockfish/bookgen">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=bookgen&theme=algolia" />
-</a>
-<a href="https://github.com/ianfab/fishtest">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=ianfab&repo=fishtest&theme=algolia" />
+<a href="https://github.com/fairy-stockfish/fairy-stockfish.wasm">
+  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=fairy-stockfish&repo=fairy-stockfish.wasm&theme=algolia" />
 </a>
 
 ### Chess (variant) data analysis
